@@ -1,0 +1,101 @@
+ID,Name,Age,Join_Date,Department,Salary,Country,Email
+1,Joseph Carter,thirty,2021/11/01,It,48000.0,,mike.oneil@email.com
+2,Alexander Walker,NaN,2017-03-12,,,USA,
+3,Lucas King,27,2022/05/09,hr,55000,Usa,mike.oneil@email.com
+4,Jack Mitchell,,2018/07/23,Sales,62000,UK,sara.miller@email.com
+5,  alexander walker  ,,15-02-2019,finance,62000,UK,robert.brown@email.com
+6,EVELYN LEWIS,NaN,2018/07/23,Finance,50000,uk,john.smith@email.com
+7,HANNAH SANCHEZ,27,2022/05/09,Sales,48000.0,Usa,john.smith@email.com
+8,Anna Jones,NaN,2018/07/23,,50000,usa,john.smith@email.com
+9,MIKE O'NEIL,NaN,,Sales,50000,,john.smith@email.com
+10,EVELYN LEWIS,30,2022/05/09,IT,55000,USA,john.smith@email.com
+11,CALEB COLLINS,29,2017-03-12,hr,,Usa,sara.miller@email.com
+12,  james white  ,30,,Finance,50000,USA,anna.jones@email
+13,ROBERT BROWN,27,2019/08/19,IT,48000.0,UK,john.smith@email.com
+14,  michael hall  ,25,2021/11/01,,fifty thousand,Canada,john.smith@email.com
+15,Robert Brown,35,2018/07/23,hr,48000.0,UK,sara.miller@email.com
+16,  layla rivera  ,,2021/11/01,IT,50000,Canada,robert.brown@email.com
+17,Elijah Martinez,thirty,2021/11/01,It,50000,uk,john.smith@email.com
+18,  michael hall  ,29,2021/11/01,Finance,47000,CANADA,john.smith@email.com
+19,Henry Young,27,2019/08/19,hr,47000,CANADA,mike.oneil@email.com
+20,MATTHEW CAMPBELL,25,,It,48000.0,uk,robert.brown@email.com
+21,  chris green  ,41,2022/05/09,It,47000,CANADA,john.smith@email.com
+22,  sophia johnson  ,41,2020/01/15,Finance,NaN,UK,mike.oneil@email.com
+23,Jack Mitchell,NaN,2022/05/09,hr,fifty thousand,uk,anna.jones@email
+24,  benjamin garcia  ,41,2019/08/19,IT,55000,usa,robert.brown@email.com
+25,  chris green  ,35,2021/11/01,Sales,48000.0,uk,mike.oneil@email.com
+26,Elijah Martinez,30,2022/05/09,IT,48000.0,UK,anna.jones@email
+27,  ava anderson  ,27,2021/11/01,HR,62000,USA,
+28,  evelyn lewis  ,41,15-02-2019,hr,55000,uk,
+29,Mike O'Neil,27,2019/08/19,Sales,,Usa,john.smith@email.com
+30,CHRIS GREEN,27,2019/08/19,It,NaN,CANADA,david.lee@email.com
+31,Layla Rivera,25,2022/05/09,IT,50000,Canada,sara.miller@email.com
+32,Mia Martin,25,2020/01/15,Finance,47000,Usa,john.smith@email.com
+33,  sara miller  ,NaN,,IT,50000,UK,
+34,JACK MITCHELL,41,2019/08/19,HR,55000,Canada,mike.oneil@email.com
+35,John Smith,27,15-02-2019,Finance,62000,USA,mike.oneil@email.com
+36,Alexander Walker,thirty,2021/11/01,HR,NaN,USA,robert.brown@email.com
+37,Michael Hall,,,HR,62000,Usa,john.smith@email.com
+38,OLIVIA BROWN,30,2020/01/15,IT,47000,USA,
+39,CHARLOTTE THOMPSON,41,2022/05/09,Sales,fifty thousand,uk,mike.oneil@email.com
+40,Jackson Wright,41,2017-03-12,HR,47000,usa,mike.oneil@email.com
+41,  sara miller  ,NaN,2022/05/09,Finance,62000,CANADA,sara.miller@email.com
+42,AIDEN TURNER,27,,IT,55000,Canada,mike.oneil@email.com
+43,Samuel Roberts,29,2018/07/23,It,62000,UK,robert.brown@email.com
+44,  scarlett stewart  ,35,2020/01/15,HR,62000,Canada,david.lee@email.com
+45,DAVID LEE,,,Finance,47000,UK,mike.oneil@email.com
+46,Mike O'Neil,27,2022/05/09,HR,62000,usa,john.smith@email.com
+47,  anna jones  ,41,2018/07/23,It,NaN,USA,robert.brown@email.com
+48,ALEXANDER WALKER,35,2020/01/15,finance,48000.0,uk,
+49,  sebastian scott  ,29,,hr,,USA,john.smith@email.com
+50,ALEXANDER WALKER,27,2021/11/01,IT,50000,CANADA,mike.oneil@email.com
+51,James White,,15-02-2019,IT,47000,uk,john.smith@email.com
+52,ZOE BAKER,27,2020/01/15,,62000,Canada,anna.jones@email
+53,  benjamin garcia  ,25,2018/07/23,Finance,55000,USA,john.smith@email.com
+54,Emily Davis,35,15-02-2019,,50000,Usa,john.smith@email.com
+55,John Smith,27,2018/07/23,finance,47000,Canada,john.smith@email.com
+56,Daniel Allen,,2020/01/15,,50000,USA,anna.jones@email
+57,AVA ANDERSON,29,,IT,47000,Canada,anna.jones@email
+58,PENELOPE ROGERS,29,2019/08/19,IT,55000,Canada,
+59,  scarlett stewart  ,41,2020/01/15,finance,50000,CANADA,anna.jones@email
+60,Zoe Baker,27,2021/11/01,finance,,CANADA,
+61,Jane Doe,,2019/08/19,It,50000,UK,david.lee@email.com
+62,JACKSON WRIGHT,41,15-02-2019,IT,48000.0,usa,sara.miller@email.com
+63,BENJAMIN GARCIA,27,2019/08/19,HR,62000,usa,anna.jones@email
+64,  grace nelson  ,27,2021/11/01,Sales,fifty thousand,uk,sara.miller@email.com
+65,SCARLETT STEWART,thirty,2017-03-12,hr,47000,Canada,robert.brown@email.com
+66,  scarlett stewart  ,29,2021/11/01,hr,fifty thousand,Usa,sara.miller@email.com
+67,Victoria Adams,,15-02-2019,finance,,usa,anna.jones@email
+68,JOHN SMITH,29,2022/05/09,It,,CANADA,anna.jones@email
+69,Liam Williams,25,15-02-2019,IT,NaN,Canada,sara.miller@email.com
+70,  michael hall  ,41,2018/07/23,,55000,Canada,mike.oneil@email.com
+71,NATHAN EVANS,30,15-02-2019,HR,,,john.smith@email.com
+72,  lucas king  ,29,,IT,55000,USA,anna.jones@email
+73,  michael hall  ,25,2018/07/23,Sales,62000,usa,anna.jones@email
+74,  charlotte thompson  ,thirty,,finance,fifty thousand,uk,john.smith@email.com
+75,Isabella Thomas,41,,It,fifty thousand,UK,john.smith@email.com
+76,LAYLA RIVERA,thirty,,Sales,47000,UK,sara.miller@email.com
+77,SCARLETT STEWART,thirty,2017-03-12,,,usa,john.smith@email.com
+78,MATTHEW CAMPBELL,30,2017-03-12,hr,55000,CANADA,john.smith@email.com
+79,  nathan evans  ,thirty,2020/01/15,Finance,fifty thousand,Canada,
+80,  sara miller  ,29,2022/05/09,Sales,fifty thousand,,john.smith@email.com
+81,Lily Morris,35,,,62000,,anna.jones@email
+82,SCARLETT STEWART,41,2022/05/09,finance,NaN,USA,mike.oneil@email.com
+83,MATTHEW CAMPBELL,41,2018/07/23,IT,50000,Canada,john.smith@email.com
+84,ISABELLA THOMAS,29,2018/07/23,HR,48000.0,,david.lee@email.com
+85,  joseph carter  ,,2022/05/09,,NaN,uk,anna.jones@email
+86,  mason harris  ,35,2022/05/09,,,USA,
+87,Chloe Hill,25,,Sales,55000,,anna.jones@email
+88,JOHN SMITH,41,2017-03-12,,62000,,mike.oneil@email.com
+89,Lucas King,27,2017-03-12,,,CANADA,david.lee@email.com
+90,  jackson wright  ,NaN,2022/05/09,finance,,uk,
+91,PENELOPE ROGERS,29,2018/07/23,Sales,fifty thousand,CANADA,anna.jones@email
+92,  zoe baker  ,35,,finance,50000,,mike.oneil@email.com
+93,HANNAH SANCHEZ,35,15-02-2019,hr,,uk,mike.oneil@email.com
+94,Elijah Martinez,thirty,2021/11/01,Sales,50000,,
+95,ISABELLA THOMAS,25,2017-03-12,HR,47000,USA,
+96,JANE DOE,,2020/01/15,It,,UK,mike.oneil@email.com
+97,Samuel Roberts,thirty,2021/11/01,It,fifty thousand,UK,mike.oneil@email.com
+98,  sophia johnson  ,30,2017-03-12,IT,62000,,
+99,MICHAEL HALL,29,2018/07/23,It,48000.0,,anna.jones@email
+100,  lucas king  ,29,2022/05/09,IT,fifty thousand,USA,robert.brown@email.com
